@@ -1,3 +1,4 @@
-print("my name is:")
-print("my USN is:")
-print("my course is:")
+name=input("my name is:")
+usn=input("my USN is:")
+course=input("my course is:")
+print("my college name is:")
